@@ -1,9 +1,9 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Live recording studio 2021"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  twitter: "carlosvm",
+  # facebook: "#",
+  # medium: "#"
 }
 privacyText: "Privacy Policy"
 privacyHref: "#!"

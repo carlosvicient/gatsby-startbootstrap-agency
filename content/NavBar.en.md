@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Live recording studio"
 menuText: "Menu "
 ---
